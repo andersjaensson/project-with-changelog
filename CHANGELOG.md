@@ -12,3 +12,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 * This changelog
 * One more thing
 * and another one
+dasdasd
