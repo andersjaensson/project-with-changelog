@@ -1,4 +1,4 @@
-## [7.0.0](https://github.com/cucumber/cucumber-ruby/compare/v6.1.0...v7.0.0) (2021-07-13)
+## [7.0.0](https://github.com/cucumber/cucumber-ruby/compare/v6.1.0...v7.0.0) (2021-07-19)
 ### Added
 * Add a feature, fixes (#1)
 * Add a feature, fixes (#2)
